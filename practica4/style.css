@@ -1,0 +1,28 @@
+ul,li{
+
+
+	display: inline-block;
+	text-decoration: none;
+
+
+}
+
+a{
+
+
+	text-decoration: none;
+	color:lightblue;
+	font-weight: bold;
+}
+body{
+
+	background-color: black;
+	color:orange;
+
+
+}
+
+#texto{
+
+	color:white;
+}
